@@ -1,0 +1,8 @@
+streamlit
+requests
+sqlalchemy
+pymysql
+python-dotenv
+streamlit_navigation_bar
+mem0ai
+mysql-connector-python
